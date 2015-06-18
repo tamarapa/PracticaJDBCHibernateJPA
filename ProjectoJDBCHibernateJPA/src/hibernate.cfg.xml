@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//hibernate.DTO/Hibernate Configuration DTD 3.0//EN"
+		"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
+        <property name="hibernate.connection.password">YAKO</property>
+        <property name="hibernate.connection.url">jdbc:oracle:thin:@localhost:1521:xe</property>
+        <property name="hibernate.connection.username">HR</property>
+        <property name="hibernate.default_schema">HR</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
+        <property name="show_sql">false</property>
+        
+        <!-- Mapping files -->
+        <mapping resource="hibernate/DTO/Countries.hbm.xml"/>
+        <mapping resource="hibernate/DTO/Departments.hbm.xml"/>
+        <mapping resource="hibernate/DTO/EmpDetailsView.hbm.xml"/>
+        <mapping resource="hibernate/DTO/Employees.hbm.xml"/>
+        <mapping resource="hibernate/DTO/JobHistory.hbm.xml"/>
+        <mapping resource="hibernate/DTO/Jobs.hbm.xml"/>
+        <mapping resource="hibernate/DTO/Locations.hbm.xml"/>
+        <mapping resource="hibernate/DTO/Regions.hbm.xml"/>
+    </session-factory>
+</hibernate-configuration>

@@ -1,0 +1,70 @@
+2015-06-17 15:49:54 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 15:50:05 TRACE  hibernate.service.EmployeesService:31 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 15:54:57 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 15:55:05 TRACE  hibernate.service.EmployeesService:31 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:00:06 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:00:13 TRACE  hibernate.service.EmployeesService:190 logTami- EmployeesService - obtenerEmpleadosMejorPagadosPorDepartamento1Query() INICIO
+2015-06-17 16:03:47 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:03:57 TRACE  hibernate.service.EmployeesService:31 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:07:07 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:07:11 TRACE  hibernate.service.EmployeesService:31 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:09:18 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:09:21 TRACE  hibernate.service.EmployeesService:31 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:13:15 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:13:19 TRACE  hibernate.service.EmployeesService:31 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:14:32 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:14:35 TRACE  hibernate.service.EmployeesService:31 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:14:37 INFO   hibernate.service.EmployeesService:42 logTami- Mostrando empleados...
+2015-06-17 16:14:37 TRACE  hibernate.service.EmployeesService:60 logTami- mostrarTodos() FIN
+2015-06-17 16:19:38 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:19:42 TRACE  hibernate.service.EmployeesService:190 logTami- EmployeesService - obtenerEmpleadosMejorPagadosPorDepartamento1Query() INICIO
+2015-06-17 16:19:44 TRACE  hibernate.service.EmployeesService:209 logTami- EmployeesService - obtenerEmpleadosMejorPagadosPorDepartamento1Query() FIN
+2015-06-17 16:20:23 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:26:29 TRACE  hibernate.service.EmployeesService:24 logTami- EmployeesService - employeesService()
+2015-06-17 16:26:42 TRACE  hibernate.service.EmployeesService:67 logTami- EmployeesService - obtenerEmpleadosPorDepartamento() - INICIO
+2015-06-17 16:26:44 INFO   hibernate.service.EmployeesService:76 logTami- obtenerEmpleadosPorDepartamento...
+2015-06-17 16:26:44 TRACE  hibernate.service.EmployeesService:87 logTami- obtenerEmpleadosPorDepartamento() FIN
+2015-06-17 16:35:12 TRACE  EmployeesService:25 logTami- EmployeesService - employeesService()
+2015-06-17 16:35:23 TRACE  EmployeesService:72 logTami- EmployeesService - obtenerEmpleadosPorDepartamento() - INICIO
+2015-06-17 16:35:25 INFO   EmployeesService:81 logTami- obtenerEmpleadosPorDepartamento...
+2015-06-17 16:35:25 TRACE  EmployeesService:92 logTami- obtenerEmpleadosPorDepartamento() FIN
+2015-06-17 16:35:33 TRACE  EmployeesService:36 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:35:33 INFO   EmployeesService:47 logTami- Mostrando empleados...
+2015-06-17 16:35:33 TRACE  EmployeesService:65 logTami- mostrarTodos() FIN
+2015-06-17 16:38:57 TRACE  EmployeesService:25 logTami- EmployeesService - employeesService()
+2015-06-17 16:39:01 TRACE  EmployeesService:36 logTami- EmployeesService - mostrarTodos() - INICIO
+2015-06-17 16:39:02 INFO   EmployeesService:47 logTami- Mostrando empleados...
+2015-06-17 16:39:02 TRACE  EmployeesService:65 logTami- mostrarTodos() FIN
+2015-06-17 17:46:43 TRACE  EmployeesService:25 logTami- EmployeesService - employeesService()
+2015-06-17 17:46:43 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 17:46:44 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 17:47:39 TRACE  EmployeesService:25 logTami- EmployeesService - employeesService()
+2015-06-17 17:47:39 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 17:47:41 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:30:12 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:30:12 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:30:14 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:30:41 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:30:41 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:30:42 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:31:35 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:31:35 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:31:37 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:32:15 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:32:15 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:32:17 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:38:01 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:38:01 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:38:03 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:53:59 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:53:59 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:54:01 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:56:33 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:56:33 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:56:35 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:59:06 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:59:06 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:59:07 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
+2015-06-17 18:59:20 TRACE  EmployeesService:12 logTami- EmployeesService - employeesService()
+2015-06-17 18:59:20 TRACE  hibernate.DAO.EmployeesHibernateDAO:28 logTami- EmployeesService - obtenerEmpleado() - INICIO
+2015-06-17 18:59:21 TRACE  hibernate.DAO.EmployeesHibernateDAO:45 logTami- obtenerEmpleado() FIN
